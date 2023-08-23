@@ -10,4 +10,5 @@ Navigating the seas of version control, I wield the powers of Git, anchored by t
 Beyond this realm, I ventured to HyperionDev and returned with a Data Science talisman. It bestowed the ability to converse with databases like SQL and SQLite and dance with data in the language of visualization.
 
 Standing at the threshold, I'm poised to embrace my destiny as a Software Engineer. With a heart brimming with dreams, I'm on a quest for an entry-level software realm, where I can weave my creativity into code, crafting solutions that will echo through the corridors of technology's history.
+
 ![goodBye](https://github.com/Nombuso16/Nombuso16/assets/101812346/25783f2c-fe24-4955-9799-a55ab3f948b3)
