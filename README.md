@@ -1,10 +1,10 @@
 ### My Personal Profile 
  ![adventureBook](https://github.com/Nombuso16/Nombuso16/assets/101812346/a850b5da-3c7f-48be-8c1e-c0812b207f98)                                                 
 
-In the magical realm of WeThinkCode_, 
+"In the magical realm of WeThinkCode_,
 I'm a student on an enchanting journey through Software Engineering. 
 Bug-fixing is my puzzle-solving quest, igniting joy within me. 
-I'm captivated by creative conundrums and the endless possibilities of technology.
+I'm captivated by creative conundrums and the endless possibilities of technology."
 
 ![dogAndPuzzle](https://github.com/Nombuso16/Nombuso16/assets/101812346/dd372d8f-c8da-4a0f-9840-de4acfaf3e65)
 
