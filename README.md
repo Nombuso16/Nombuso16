@@ -3,7 +3,11 @@
 
 In the magical realm of WeThinkCode_, I'm a student on an enchanting journey through Software Engineering. Bug-fixing is my puzzle-solving quest, igniting joy within me. I'm captivated by creative conundrums and the endless possibilities of technology.
 
+![dogAndPuzzle](https://github.com/Nombuso16/Nombuso16/assets/101812346/dd372d8f-c8da-4a0f-9840-de4acfaf3e65)
+
 As I tread the path of learning, I've traversed front-end and back-end landscapes, mastering Python and Java as my magical spells. WeThinkCode_'s teaching wizardry has revealed the art of refining projects and conjuring fresh solutions from thin air. My adventure includes exploring hidden data structures, the trials of unit testing, and the mystical ways of Test-Driven Development (TDD) with my trusty ally, JUnit.
+
+![magicalSpell](https://github.com/Nombuso16/Nombuso16/assets/101812346/b6b05076-ad60-4267-8751-1cea0fd9aff3)
 
 Navigating the seas of version control, I wield the powers of Git, anchored by the knowledge of the Gitlab realm. These tools unite my companions, fostering teamwork and guiding our quests.
 
