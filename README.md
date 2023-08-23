@@ -1,5 +1,5 @@
 ### My Personal Profile 
-                            ![adventureBook](https://github.com/Nombuso16/Nombuso16/assets/101812346/a850b5da-3c7f-48be-8c1e-c0812b207f98)
+ ![adventureBook](https://github.com/Nombuso16/Nombuso16/assets/101812346/a850b5da-3c7f-48be-8c1e-c0812b207f98)                                                 
 
 In the magical realm of WeThinkCode_, I'm a student on an enchanting journey through Software Engineering. Bug-fixing is my puzzle-solving quest, igniting joy within me. I'm captivated by creative conundrums and the endless possibilities of technology.
 
