@@ -14,7 +14,7 @@ I'm captivated by creative conundrums and the endless possibilities of technolog
 As I tread the path of learning, I've traversed front-end and back-end landscapes,
 
 mastering Python and Java as my magical spells. 
-`
+
 WeThinkCode_'s teaching wizardry has revealed the art of refining projects and conjuring fresh solutions from thin air. 
 
 My adventure includes exploring hidden data structures, the trials of unit testing, 
